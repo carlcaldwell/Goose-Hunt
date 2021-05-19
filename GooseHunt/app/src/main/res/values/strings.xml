@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Goose Hunt</string>
+    <string name="gooseImg">goose</string>
+    <string name="miss">Miss!</string>
+    <string name="goosehunt">Goose\nHunt</string>
+    <string name="startgame">Start Hunting!</string>
+    <string name="mainmenu">Main Menu</string>
+    <string name="welcome">Welcome to...</string>
+    <string name="weather">Hunting Conditions</string>
+    <string name="loading">Loading...</string>
+    <string name="temp">Temp:</string>
+    <string name="con">Condition:</string>
+    <string name="gamoeover">Game Over!</string>
+</resources>
